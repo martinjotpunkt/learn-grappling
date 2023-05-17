@@ -1,7 +1,8 @@
 # Finishing
 https://bjjmentalmodels.wpcomstaging.com/single-vs-double-lever-control/
 
-## [Position over Submission](https://bjjmentalmodels.wpcomstaging.com/position-over-submission/)
+## Position over Submission
+(https://bjjmentalmodels.wpcomstaging.com/position-over-submission/)
 * Match up your position to your submission (inside leg control/outside leg control, don't work to or from positions that don't favour your gameplan)
 * You should always evaluate your own and your opponent's [[alignment]]
 
@@ -35,7 +36,8 @@ This classifies techniques that require you to abandon your [[control#Position|p
 
 ### [Dilemmas](https://bjjmentalmodels.wpcomstaging.com/dilemma/)
 
-## [Breaking Mechanics](https://bjjmentalmodels.wpcomstaging.com/breaking-mechanics/)
+## Breaking Mechanics
+https://bjjmentalmodels.wpcomstaging.com/breaking-mechanics/
 
 ## Joint Locks
 - [[control#Ratchet Control|Rotational Force]]
@@ -43,7 +45,8 @@ This classifies techniques that require you to abandon your [[control#Position|p
 - 
 
 
-## [Chokes](https://bjjmentalmodels.wpcomstaging.com/choking-mechanics/)
+## Chokes
+https://bjjmentalmodels.wpcomstaging.com/choking-mechanics/
 * Hurting chokes are inaccurate, closing the arteries shouldn't require force
 * Place coronary arteries directly in elbow-/knee-pit, rotate head if necessary
 * Head and Arm Chokes - Find spot with stretched arm, push whole shoulder from the blade upward into the artery before flexing choking arm

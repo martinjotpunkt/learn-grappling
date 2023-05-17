@@ -1,4 +1,4 @@
-a# Defence
+# Defence
 The premise behind Defensive BJJ is to defend attacks before the need to escape arises with techniques as generally viable as possible. The main concept that allows this is that defense in grappling is mainly about [[control |controlling]] the body, which is gained by invading the space between armpit and knee to gain control over hip and/or shoulders and restrict movement. 
 The goal of Defensive BJJ is not to stay in a defensive position forever, but to slow down the fight and gain awareness of leaving controlled openings that allow counter attacks or even giving away positions considered more dangerous, while staying in control over the terms.
 
