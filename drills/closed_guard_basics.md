@@ -1,0 +1,13 @@
+# Closed Guard Basics
+-   A: [[closed_guard#kimura Kimura|Kimura from Closed Guard]]
+-   B: Kimura Defence
+-   A: Guillotine from Closed Guard
+-   B: Guillotine Defence
+-   A: Triangle from Closed Guard
+-   B: Triangle Defence
+-   A: Kimura
+-   A: Kimura Release
+-   A: Omoplata
+-   B: Omoplata Roll
+-   A: Side Control
+-   B: Escape To Closed Guard
